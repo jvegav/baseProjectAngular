@@ -92,5 +92,8 @@
       }
     }
   },
-  "defaultProject": "base-project"
+  "defaultProject": "base-project",
+  "cli": {
+    "analytics": "898a92bf-e7e7-4d7d-bd69-ba2c621c5dc2"
+  }
 }
